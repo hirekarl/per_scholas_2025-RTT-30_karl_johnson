@@ -13,6 +13,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ##### Day 2 (<date datetime="2025-06-03">Tue Jun 3 2025</date>)
 
 ###### Topics
+- Using Git
 
 ###### Work
 - *Eloquent JavaScript*: read Introduction, Ch. 1, Ch. 2 (pp. 1&ndash;57); worked thru [Ch. 2 exercises](./eloquent_javascript/ch_02/exercises)
