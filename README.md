@@ -30,14 +30,14 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 - *Eloquent JavaScript*: read Introduction, Ch. 1, Ch. 2 (pp. 1&ndash;57); worked thru [Ch. 2 exercises](./eloquent_javascript/ch_02/exercises)
 
 ###### Resources
-- *[Eloquent JavaScript](./resources/Eloquent_JavaScript_small.pdf)* (Marijn Haverbeke, 2024) (also [eloquentjavascript.net](https://eloquentjavascript.net/))
-- [GitHub Git Cheat Sheet](./resources/git-cheat-sheet-education.pdf)
+- Book: *[Eloquent JavaScript](./resources/Eloquent_JavaScript_small.pdf)* (Marijn Haverbeke, 2024) (also [eloquentjavascript.net](https://eloquentjavascript.net/))
+- Cheat Sheet: [GitHub Git Cheat Sheet](./resources/git-cheat-sheet-education.pdf)
 - Article: [Gitflow (Atlassian)](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - Article: [Trunk-Based Development (Atlassian)](https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 - Game: [learngitbranching](https://learngitbranching.js.org/)
 
 ###### Homework
-- [Lab 1 Submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj)
+- [Lab 1: Branching, Merging, and Handling Conflicts (Submission)](https://github.com/hirekarl/2025-rtt-30_lab01_kj)
 
 ---
 
@@ -48,5 +48,5 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 - Version control & Git intro
 
 ###### Resources
-- [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-- [Ztype](https://zty.pe/)
+- Game: [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+- Game: [Ztype](https://zty.pe/)
