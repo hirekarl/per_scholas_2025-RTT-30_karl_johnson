@@ -13,12 +13,28 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ##### Day 3: <date datetime="2025-06-04">Wed Jun 4 2025</date>
 ###### Topics
 - Pull requests
+- Node.js and `npm`
+- Code reviews
+- [GitHub Actions](https://docs.github.com/en/actions)
 
 ###### Work
-
+- Created Git pull request activity: [`little-red-riding-hood`](https://github.com/hirekarl/little-red-riding-hood.git) "finish-the-story" activity
+- *TODO*: Tutorial for classmates with [`little-red-riding-hood`](https://github.com/hirekarl/little-red-riding-hood.git) in Discord at 4pm
 
 ###### Resources
+- Linter: [ESLint](https://eslint.org/)
+- Testing Framework: [Jest](https://jestjs.io/)
+- Coding Challenges: [HackerRank](https://www.hackerrank.com/)
+- Project Management: [Kanban boards](https://www.atlassian.com/agile/kanban/boards)
 
+###### Homework
+Due tomorrow by 11:59pm ET:
+- [ ] [Discussion 1.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140436?module_item_id=2196235): Collaboration and Workflow Discussion Questions
+- [ ] [Discussion 1.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140437?module_item_id=2196236): Branch Management Discussion Questions
+- [ ] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
+- [ ] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
+- [ ] [KBA1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
+- [ ] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission]())
 
 ---
 
@@ -37,7 +53,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 - Game: [learngitbranching](https://learngitbranching.js.org/)
 
 ###### Homework
-- [Lab 1: Branching, Merging, and Handling Conflicts (Submission)](https://github.com/hirekarl/2025-rtt-30_lab01_kj)
+- [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj))
 
 ---
 
