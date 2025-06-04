@@ -29,7 +29,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Homework
 Due tomorrow by 11:59pm ET:
-- [ ] [Discussion 1.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140436?module_item_id=2196235): Collaboration and Workflow Discussion Questions
+- [x] [Discussion 1.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140436?module_item_id=2196235): Collaboration and Workflow Discussion Questions
 - [ ] [Discussion 1.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140437?module_item_id=2196236): Branch Management Discussion Questions
 - [ ] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
 - [ ] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
