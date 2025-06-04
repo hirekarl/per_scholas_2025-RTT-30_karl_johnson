@@ -1,6 +1,6 @@
 # 2025-RTT-30
 
-*Modified <date datetime="2025-06-03">2025-06-03</date> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
+*Modified <date datetime="2025-06-04">2025-06-04</date> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
 
 ## Overview
 Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <date datetime="2025-06-02">June 2, 2025</date> and ending <date datetime="2025-09-23">September 23, 2025</date>.
