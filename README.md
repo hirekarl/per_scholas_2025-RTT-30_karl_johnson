@@ -34,7 +34,7 @@ Due tomorrow by 11:59pm ET:
 - [ ] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
 - [ ] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
 - [ ] [KBA1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
-- [ ] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission]())
+- [x] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission](https://github.com/hirekarl/version-control-simulation-karl-johnson))
 
 ---
 
@@ -53,7 +53,7 @@ Due tomorrow by 11:59pm ET:
 - Game: [learngitbranching](https://learngitbranching.js.org/)
 
 ###### Homework
-- [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission]())
+- [x] [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj))
 
 ---
 
