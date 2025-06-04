@@ -53,7 +53,7 @@ Due tomorrow by 11:59pm ET:
 - Game: [learngitbranching](https://learngitbranching.js.org/)
 
 ###### Homework
-- [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj))
+- [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission]())
 
 ---
 
