@@ -12,15 +12,36 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ##### Day 4: <date datetime="2025-06-05">Thu Jun 5 2025</date>
 ###### Topics
-
+- Semantic HTML
+- CSS
+  - media queries
+  - responsive design
+  - flexbox, grid, and dev tools
 
 ###### Work
+- *TODO*: [Testimonials Grid Section Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) (Activity 2.2)
 
 
 ###### Resources
-
+- HTML
+  - Reference: [W3Schools HTML Element Reference](https://www.w3schools.com/tags/default.asp)
+  - Reference: [MDN HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS
+  - Reference: [W3 Schools CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
+  - Reference: [W3 Schools CSS Units](https://www.w3schools.com/cssref/css_units.php)
+  - Reference: [W3 Schools Media Queries](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
+  - Reference: [CSS Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - Reference: [CSS Tricks Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+  - Article: [CSS Cascading Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Specificity)
+  - Challenges: [Frontend Mentor](https://www.frontendmentor.io/)
+  - Game: [Flexbox Froggy](https://flexboxfroggy.com/)
+  - Game: [CSS Diner](https://flukeout.github.io/)
+  - Game: [Flexbox Defense](http://www.flexboxdefense.com/)
+  - Game: [Grid Garden](https://cssgridgarden.com/)
 
 ###### Homework
+Due Monday by 11:59pm ET:
+- [ ] [Lab 2.1](https://ps-lms.vercel.app/curriculum/se/410/lab-1): Interactive Accessibility Lesson (*turn in certificate of completion*)
 
 ---
 
@@ -48,10 +69,10 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ###### Homework
 Due tomorrow by 11:59pm ET:
 - [x] [Discussion 1.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140436?module_item_id=2196235): Collaboration and Workflow Discussion Questions
-- [ ] [Discussion 1.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140437?module_item_id=2196236): Branch Management Discussion Questions
-- [ ] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
-- [ ] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
-- [ ] [KBA 1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
+- [x] [Discussion 1.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140437?module_item_id=2196236): Branch Management Discussion Questions
+- [x] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
+- [x] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
+- [x] [KBA 1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
 - [x] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission](https://github.com/hirekarl/version-control-simulation-karl-johnson))
 
 ---
