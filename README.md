@@ -19,7 +19,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
   - flexbox, grid, and dev tools
 
 ###### Work
-- *TODO*: [Testimonials Grid Section Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) (Activity 2.2)
+- [x] [Activity 2.2](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7): Testimonials Grid Section Challenge ([submission](https://github.com/hirekarl/activity_2.2_flexbox_grid)) ([Netlify](https://elaborate-maamoul-9dd423.netlify.app/))
 
 
 ###### Resources
@@ -92,7 +92,7 @@ Due tomorrow by 11:59pm ET:
 - Game: [learngitbranching](https://learngitbranching.js.org/)
 
 ###### Homework
-- [x] [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj))
+- [x] [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj)) ([Netflify](https://fabulous-clafoutis-b18bb1.netlify.app/))
 
 ---
 
