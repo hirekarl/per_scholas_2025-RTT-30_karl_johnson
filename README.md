@@ -8,6 +8,20 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ### Dailies
 #### Week 1
 
+--
+
+##### Day 4: <date datetime="2025-06-05">Thu Jun 5 2025</date>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
 ---
 
 ##### Day 3: <date datetime="2025-06-04">Wed Jun 4 2025</date>
@@ -19,13 +33,17 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Work
 - Created Git pull request activity: [`little-red-riding-hood`](https://github.com/hirekarl/little-red-riding-hood.git) "finish-the-story" activity
-- *TODO*: Tutorial for classmates with [`little-red-riding-hood`](https://github.com/hirekarl/little-red-riding-hood.git) in Discord at 4pm
+- *TODO*: Tutorial for classmates with [`little-red-riding-hood`](https://github.com/hirekarl/little-red-riding-hood.git) in Discord
+- Read Ch. 3, pp. 58&ndash;73 in [*Eloquent JavaScript*](./resources/Eloquent_JavaScript_small.pdf)
+- Watched [JavaScript Closures Tutorial (Explained in depth)](https://www.youtube.com/watch?v=aHrvi2zTlaU) by [ColorCode](https://www.youtube.com/@ColorCode-io) [19:02]
+- Watched [Inheritance in JavaScript - Prototypal Inheritance tutorial](https://www.youtube.com/watch?v=jnME98ckDbQ&list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP&index=1&t=2s) by [ColorCode](https://www.youtube.com/@ColorCode-io) [20:05]
 
 ###### Resources
 - Linter: [ESLint](https://eslint.org/)
 - Testing Framework: [Jest](https://jestjs.io/)
 - Coding Challenges: [HackerRank](https://www.hackerrank.com/)
 - Project Management: [Kanban boards](https://www.atlassian.com/agile/kanban/boards)
+- YouTube Playlist: [25 Things JavaScript Developers Should Know, but Probably Don't](https://www.youtube.com/playlist?list=PL1PqvM2UQiMoGNTaxFMSK2cih633lpFKP) by [ColorCode](https://www.youtube.com/@ColorCode-io)
 
 ###### Homework
 Due tomorrow by 11:59pm ET:
@@ -33,7 +51,7 @@ Due tomorrow by 11:59pm ET:
 - [ ] [Discussion 1.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140437?module_item_id=2196236): Branch Management Discussion Questions
 - [ ] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
 - [ ] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
-- [ ] [KBA1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
+- [ ] [KBA 1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
 - [x] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission](https://github.com/hirekarl/version-control-simulation-karl-johnson))
 
 ---
