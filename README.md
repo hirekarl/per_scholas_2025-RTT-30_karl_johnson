@@ -8,7 +8,22 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ### Dailies
 #### Week 1
 
---
+---
+
+##### Day 5: <date datetime="2025-06-06">Fri Jun 6 2025</date>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+
+---
 
 ##### Day 4: <date datetime="2025-06-05">Thu Jun 5 2025</date>
 ###### Topics
@@ -38,6 +53,8 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
   - Game: [CSS Diner](https://flukeout.github.io/)
   - Game: [Flexbox Defense](http://www.flexboxdefense.com/)
   - Game: [Grid Garden](https://cssgridgarden.com/)
+- Accessibility
+  - Contrast Checker: [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 ###### Homework
 Due Monday by 11:59pm ET:
