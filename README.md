@@ -10,17 +10,34 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ---
 
+##### Weekend 1
+
+###### Work
+- Watched [Defensive Programming in JavaScript – Write Safer, Smarter Code](https://www.youtube.com/watch?v=6iXbprqa3XM) by [ColorCode](https://www.youtube.com/@ColorCode-io) [31:11]
+
+
+
+---
+
 ##### Day 5: <date datetime="2025-06-06">Fri Jun 6 2025</date>
 ###### Topics
+- ARIA/accessibility
 
 
 ###### Work
+- [Activity 3.1](https://ps-lms.vercel.app/curriculum/se/410/lesson-3): Designing an Accessible Form ([submission](https://github.com/hirekarl/activity_3.1_aria.git)) 
 
 
 ###### Resources
+- Compatibility Checker (Web Interface): [AudioEye ADA Website Accessibility Checker](https://www.audioeye.com/lp/ada-web-compliance/)
+- Compatibility Checker (Chrome Extension): [SiteImprove Accessibility Checker](https://chromewebstore.google.com/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn?hl=en&pli=1)
+- Compatibility Checker (Chrome Extension): [WAVE Evaluation Tool](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en) 
 
 
 ###### Homework
+Due Sunday at 11:59pm ET:
+- [x] [KBA 2](https://perscholas.instructure.com/courses/2754/assignments/524064): HTML and CSS with Accessibility (28/30)
+- [x] [SBA 2](https://ps-lms.vercel.app/curriculum/se/410/sba): Building a Responsive and Accessible Web Page ([submission](https://github.com/hirekarl/sba_02_accessibility)) ([Netlify](https://meek-pie-765715.netlify.app/))
 
 
 ---
@@ -89,7 +106,7 @@ Due tomorrow by 11:59pm ET:
 - [x] [Discussion 1.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140437?module_item_id=2196236): Branch Management Discussion Questions
 - [x] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
 - [x] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
-- [x] [KBA 1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control
+- [x] [KBA 1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control (30/30)
 - [x] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission](https://github.com/hirekarl/version-control-simulation-karl-johnson))
 
 ---
