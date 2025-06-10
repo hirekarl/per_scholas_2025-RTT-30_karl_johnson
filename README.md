@@ -6,6 +6,38 @@
 Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <date datetime="2025-06-02">June 2, 2025</date> and ending <date datetime="2025-09-23">September 23, 2025</date>.
 
 ### Dailies
+
+#### Week 2
+
+---
+
+##### Day 6: <date datetime="2025-06-09">Mon Jun 9 2025</date>
+###### Topics
+- Web design/web development workflows
+- Wireframing
+- Figma
+
+
+###### Work
+- [Figma prototype practice](https://www.figma.com/proto/VRv2MdhuFHung3DkQ9Pp4x/Module-3?node-id=0-1&t=nNvfHjDzAaTOHV8P-1)
+- Completed and submitted Lab 2.1 (*see Day 4*)
+
+
+###### Resources
+- Course: [100 Hours Web Development Bootcamp - Build 23 React Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=ST12MT90625AI)
+- Design Tool: [Figma]()
+- Design Tool: [SketchPad](https://sketchpad.app/)
+- CSS Framework: [Tailwind]()
+- CSS Framework: [Bootstrap]()
+- Cheat Sheet: [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+- Reference: [Your first website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website)
+
+
+###### ~~Homework~~
+
+
+---
+
 #### Week 1
 
 ---
@@ -75,7 +107,7 @@ Due Sunday at 11:59pm ET:
 
 ###### Homework
 Due Monday by 11:59pm ET:
-- [ ] [Lab 2.1](https://ps-lms.vercel.app/curriculum/se/410/lab-1): Interactive Accessibility Lesson (*turn in certificate of completion*)
+- [x] [Lab 2.1](https://ps-lms.vercel.app/curriculum/se/410/lab-1): Interactive Accessibility Lesson ([submission](https://github.com/hirekarl/lab_2.1_accessible_web_design))
 
 ---
 
