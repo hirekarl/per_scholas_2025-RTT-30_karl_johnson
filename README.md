@@ -27,7 +27,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 Due Friday, 11:59pm:
 - [ ] Complete IBM SkillsBuild assessment (*link broken*)
-- [x] [Lab 3.2](https://ps-lms.vercel.app/curriculum/se/326/lab-2): Practicing Implementation with Frontend Mentor
+- [x] [Lab 3.2](https://ps-lms.vercel.app/curriculum/se/326/lab-2): Practicing Implementation with Frontend Mentor ([submission](https://github.com/hirekarl/lab_3.2_frontend_mentor))
 
 ---
 
