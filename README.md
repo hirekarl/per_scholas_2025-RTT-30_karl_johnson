@@ -11,30 +11,82 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ---
 
+##### Day 9: <date datetime="2025-06-12">Thu Jun 12 2025</date>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+- Color Palette Tool: [Coolors](https://coolors.co/)
+
+###### Homework
+- [x] [Discussion 3.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140442?module_item_id=2196257): Web Design vs. Web Development
+- [ ] [Discussion 3.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140443?module_item_id=2196258): From Design to Development
+
+Due Friday, 11:59pm:
+- [ ] Complete IBM SkillsBuild assessment (*link broken*)
+- [x] [Lab 3.2](https://ps-lms.vercel.app/curriculum/se/326/lab-2): Practicing Implementation with Frontend Mentor
+
+---
+
+##### Day 8: <date datetime="2025-06-11">Wed Jun 11 2025</date>
+###### Topics
+- From design to development with Figma
+
+###### Work
+- Read Figma: [Branches in Figma](https://www.figma.com/best-practices/branching-in-figma/)
+- Read Figma: [Tips for a better developer workflow](https://www.figma.com/best-practices/tips-for-a-better-developer-workflow/)
+- Watched [Figma Variables & Advanced Prototyping - Crash Course](https://www.youtube.com/watch?v=Tx45NcbU6aA) by [DesignCourse](https://www.youtube.com/@DesignCourse)
+
+###### Resources
+- [Asana's Beginner Guide to Agile](https://asana.com/resources/agile-methodology)
+
+###### Homework
+Due Thursday, 11:59pm:
+- [x] [Lab 3.1](https://ps-lms.vercel.app/curriculum/se/326/lab-1): Exploring Advanced Figma Features ([submission](https://www.figma.com/proto/Ek3F4Zdmel96SkTt7nJoss/Lab-3.1?page-id=0%3A1&node-id=1-62&p=f&viewport=90%2C330%2C0.25&t=q26UB5hxzRC1B51P-1&scaling=scale-down&content-scaling=fixed))
+
+---
+
+##### Day 7: <date datetime="2025-06-10">Tue Jun 10 2025</date>
+###### Topics
+- Intro to professional development
+- Per Scholas values
+
+###### Work
+- Wrote and presented values poem with team for Ambition and Perseverance
+
+###### Resources
+- [Shai One-on-One Scheduler](https://calendly.com/slabbe-perscholas/30min)
+
+###### Homework
+- [x] Complete PD survey
+
+---
+
 ##### Day 6: <date datetime="2025-06-09">Mon Jun 9 2025</date>
 ###### Topics
 - Web design/web development workflows
 - Wireframing
 - Figma
 
-
 ###### Work
 - [Figma prototype practice](https://www.figma.com/proto/VRv2MdhuFHung3DkQ9Pp4x/Module-3?node-id=0-1&t=nNvfHjDzAaTOHV8P-1)
 - Completed and submitted Lab 2.1 (*see Day 4*)
-
 
 ###### Resources
 - Course: [100 Hours Web Development Bootcamp - Build 23 React Projects](https://www.udemy.com/course/the-web-dev-bootcamp/?couponCode=ST12MT90625AI)
 - Design Tool: [Figma]()
 - Design Tool: [SketchPad](https://sketchpad.app/)
-- CSS Framework: [Tailwind]()
-- CSS Framework: [Bootstrap]()
+- CSS Framework: [Tailwind](https://tailwindcss.com/)
+- CSS Framework: [Bootstrap](https://getbootstrap.com/)
 - Cheat Sheet: [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - Reference: [Your first website](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website)
 
-
-###### ~~Homework~~
-
+###### Homework
+- [x] [Discussion 2.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140440): Review Topics
+- [x] [Discussion 2.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140441?module_item_id=2196248): Accessibility
 
 ---
 
@@ -47,24 +99,19 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ###### Work
 - Watched [Defensive Programming in JavaScript – Write Safer, Smarter Code](https://www.youtube.com/watch?v=6iXbprqa3XM) by [ColorCode](https://www.youtube.com/@ColorCode-io) [31:11]
 
-
-
 ---
 
 ##### Day 5: <date datetime="2025-06-06">Fri Jun 6 2025</date>
 ###### Topics
 - ARIA/accessibility
 
-
 ###### Work
 - [Activity 3.1](https://ps-lms.vercel.app/curriculum/se/410/lesson-3): Designing an Accessible Form ([submission](https://github.com/hirekarl/activity_3.1_aria.git)) 
-
 
 ###### Resources
 - Compatibility Checker (Web Interface): [AudioEye ADA Website Accessibility Checker](https://www.audioeye.com/lp/ada-web-compliance/)
 - Compatibility Checker (Chrome Extension): [SiteImprove Accessibility Checker](https://chromewebstore.google.com/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn?hl=en&pli=1)
 - Compatibility Checker (Chrome Extension): [WAVE Evaluation Tool](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en) 
-
 
 ###### Homework
 Due Sunday at 11:59pm ET:
@@ -84,7 +131,6 @@ Due Sunday at 11:59pm ET:
 
 ###### Work
 - [x] [Activity 2.2](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7): Testimonials Grid Section Challenge ([submission](https://github.com/hirekarl/activity_2.2_flexbox_grid)) ([Netlify](https://elaborate-maamoul-9dd423.netlify.app/))
-
 
 ###### Resources
 - HTML
