@@ -11,6 +11,27 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ---
 
+##### Day 10: <date datetime="2025-06-13">Fri Jun 13 2025</date> (*out sick*)
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+Due Sunday, 11:59pm:
+- [ ] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap
+
+Due Monday, 11:59pm:
+- [ ] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development
+- [ ] [KBA 3](https://perscholas.instructure.com/courses/2754/assignments/524059/): Foundations of Web Design
+
+
+---
+
 ##### Day 9: <date datetime="2025-06-12">Thu Jun 12 2025</date>
 ###### Topics
 
