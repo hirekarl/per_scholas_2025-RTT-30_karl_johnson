@@ -16,14 +16,15 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 
 ###### Work
-
+- Watched [Bootstrap 5 Crash Course Tutorial #19 - Customizing Bootstrap](https://youtu.be/nCX3QVl_PiI?si=vrtpR3BM6r72FHPE) by [Net Ninja](https://www.youtube.com/@NetNinja)
+- Watched [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI) by [developedbyed](https://www.youtube.com/@developedbyed)
 
 ###### Resources
 
 
 ###### Homework
 Due Sunday, 11:59pm:
-- [ ] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap
+- [ ] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap ([submission](https://github.com/hirekarl/lab_3.3_bootstrap_refactor/)) ([Netlify](https://incomparable-jelly-3af253.netlify.app/)) (*currently redoing*)
 
 Due Monday, 11:59pm:
 - [ ] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development
