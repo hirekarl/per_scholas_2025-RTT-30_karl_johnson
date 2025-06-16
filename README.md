@@ -24,7 +24,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Homework
 Due Sunday, 11:59pm:
-- [ ] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap ([submission](https://github.com/hirekarl/lab_3.3_bootstrap_refactor/)) ([Netlify](https://incomparable-jelly-3af253.netlify.app/)) (*currently redoing*)
+- [x] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap ([submission](https://github.com/hirekarl/lab_3.3_bootstrap_refactor/)) ([Netlify](https://incomparable-jelly-3af253.netlify.app/))
 
 Due Monday, 11:59pm:
 - [ ] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development
