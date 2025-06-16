@@ -15,7 +15,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 
 ###### Work
-- [ ] AM: Don't forget to respond to Discussion 3.2!
+- [x] AM: Don't forget to respond to Discussion 3.2!
 
 ###### Resources
 
@@ -63,7 +63,7 @@ Due Monday, 11:59pm:
 
 ###### Homework
 - [x] [Discussion 3.1](https://perscholas.instructure.com/courses/2754/discussion_topics/140442?module_item_id=2196257): Web Design vs. Web Development
-- [ ] [Discussion 3.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140443?module_item_id=2196258): From Design to Development
+- [x] [Discussion 3.2](https://perscholas.instructure.com/courses/2754/discussion_topics/140443?module_item_id=2196258): From Design to Development
 
 Due Friday, 11:59pm:
 - [ ] Complete IBM SkillsBuild assessment (*link broken*)
