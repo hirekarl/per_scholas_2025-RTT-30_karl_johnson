@@ -16,9 +16,14 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Work
 - [x] AM: Don't forget to respond to Discussion 3.2!
+- [ ] Complete KBA 3
+- [ ] Complete SBA 3
+- Watched [Tailwind CSS Tutorial for Beginners (2024) – What YOU need to know](https://www.youtube.com/watch?v=DenUCuq4G04) by [Lukas | Web Development & Design](https://www.youtube.com/@lukas.webdev)
 
 ###### Resources
-
+- Documentation: [Tailwind v3 CSS Docs](https://v3.tailwindcss.com/docs/installation)
+- Grid Generator: [Tailwind Grid Generator](https://www.tailwindgen.com/)
+- Cheat Sheet: [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
 ###### Homework
 
