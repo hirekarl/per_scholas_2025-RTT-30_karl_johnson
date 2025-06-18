@@ -10,20 +10,52 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ---
 
+##### Day 13: <date datetime="2025-06-18">Wed Jun 18 2025</date>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+---
+
+##### Day 12 (PD): <date datetime="2025-06-17">Tue Jun 17 2025</date>
+###### Topics
+- Resumes
+- ATS
+
+###### Resources
+- Resume Presentation: [Coach Shai's slides](https://docs.google.com/presentation/d/1lx2mRh1G6F0EwM_b19DlDyshtbZ5jVFw/edit?usp=sharing&ouid=111799718894371900186&rtpof=true&sd=true)
+- ATS Resume Checker: [JobScan](https://www.jobscan.co/)
+- [Shared Coach Shai Folder](https://drive.google.com/drive/folders/1U8NMrRYmkKuxbp-uK5fTb0lEb_FkTrdm)
+
+###### Homework
+Due by Friday:
+- [ ] Complete first draft of resume in shared folder
+
+---
+
 ##### Day 11: <date datetime="2025-06-16">Mon Jun 16 2025</date>
 ###### Topics
 
 
 ###### Work
 - [x] AM: Don't forget to respond to Discussion 3.2!
-- [ ] Complete KBA 3
-- [ ] Complete SBA 3
+- [x] Complete KBA 3
+- [x] Complete SBA 3
 - Watched [Tailwind CSS Tutorial for Beginners (2024) – What YOU need to know](https://www.youtube.com/watch?v=DenUCuq4G04) by [Lukas | Web Development & Design](https://www.youtube.com/@lukas.webdev)
+- To Research: Tailwind CSS v4 prefers React Router over React. Why? Should I be using v3?
 
 ###### Resources
 - Documentation: [Tailwind v3 CSS Docs](https://v3.tailwindcss.com/docs/installation)
 - Grid Generator: [Tailwind Grid Generator](https://www.tailwindgen.com/)
 - Cheat Sheet: [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+- Tutorial: [How to Create a Express/Node + React Project with Vite | Node Backend + React Frontend](https://www.youtube.com/watch?v=mKmxc8TcWQ8) by [Arpan Neupane](https://www.youtube.com/@ArpanNeupaneProductions)
 
 ###### Homework
 
@@ -50,8 +82,8 @@ Due Sunday, 11:59pm:
 - [x] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap ([submission](https://github.com/hirekarl/lab_3.3_bootstrap_refactor/)) ([Netlify](https://incomparable-jelly-3af253.netlify.app/))
 
 Due Monday, 11:59pm:
-- [ ] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development
-- [ ] [KBA 3](https://perscholas.instructure.com/courses/2754/assignments/524059/): Foundations of Web Design
+- [x] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development
+- [x] [KBA 3](https://perscholas.instructure.com/courses/2754/assignments/524059/): Foundations of Web Design
 
 
 ---
@@ -94,7 +126,7 @@ Due Thursday, 11:59pm:
 
 ---
 
-##### Day 7: <date datetime="2025-06-10">Tue Jun 10 2025</date>
+##### Day 7 (PD): <date datetime="2025-06-10">Tue Jun 10 2025</date>
 ###### Topics
 - Intro to professional development
 - Per Scholas values
