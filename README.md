@@ -12,13 +12,15 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ##### Day 13: <date datetime="2025-06-18">Wed Jun 18 2025</date>
 ###### Topics
-
+- DOM Manipulation
 
 ###### Work
 
 
 ###### Resources
-
+- "The magic is in the paycheck." &mdash; Tishana Trainor, <date datetime="2025-06-18">June 18, 2025</date>
+- YouTube Channel: [Fun Fun Function](https://www.youtube.com/@funfunfunction)
+- Tishana's notes channel: [TTMD](https://github.com/tishana/TTMD)
 
 ###### Homework
 
@@ -32,7 +34,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ###### Resources
 - Resume Presentation: [Coach Shai's slides](https://docs.google.com/presentation/d/1lx2mRh1G6F0EwM_b19DlDyshtbZ5jVFw/edit?usp=sharing&ouid=111799718894371900186&rtpof=true&sd=true)
 - ATS Resume Checker: [JobScan](https://www.jobscan.co/)
-- [Shared Coach Shai Folder](https://drive.google.com/drive/folders/1U8NMrRYmkKuxbp-uK5fTb0lEb_FkTrdm)
+- [Shared Coach Shai Folder]()
 
 ###### Homework
 Due by Friday:
