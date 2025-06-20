@@ -10,11 +10,30 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ---
 
+##### Day 14: <date datetime="2025-06-20">Fri Jun 20 2025</date>
+###### Topics
+- [Lesson 4.4](https://ps-lms.vercel.app/curriculum/se/411/lesson-4): Conditionals, Logical Operators, and Object Basics
+
+###### Work
+- Hands-On: Build a Simple Decision-Based Game
+
+###### Resources
+
+
+###### Homework
+Due Sunday, 11:59pm EDT:
+- [ ] [SBA 4](https://ps-lms.vercel.app/curriculum/se/411/sba): Task Management App ([submission]()) ([Netlify]())
+
+---
+
 ##### Day 13: <date datetime="2025-06-18">Wed Jun 18 2025</date>
 ###### Topics
 - DOM Manipulation
+- JS Arrays &amp; Loops
 
 ###### Work
+- Work on developing a mental model for heap vs. stack, `Array.prototype.push()` vs. `.pop()`, and `.shift()` vs. `.unshift()`.
+- Study `for-of` loops and `Array.prototype.forEach()`
 
 
 ###### Resources
@@ -23,6 +42,9 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 - Tishana's notes channel: [TTMD](https://github.com/tishana/TTMD)
 
 ###### Homework
+Due Friday, 11:59pm EDT:
+- Lab
+- Lab
 
 ---
 
@@ -38,7 +60,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Homework
 Due by Friday:
-- [ ] Complete first draft of resume in shared folder
+- [x] Complete first draft of resume in shared folder
 
 ---
 
