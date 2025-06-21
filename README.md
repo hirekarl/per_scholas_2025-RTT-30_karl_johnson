@@ -22,7 +22,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Homework
 Due Sunday, 11:59pm EDT:
-- [ ] [SBA 4](https://ps-lms.vercel.app/curriculum/se/411/sba): Task Management App ([submission](https://github.com/hirekarl/sba_04_task_management_app)) ([Netlify](https://incredible-mousse-c22548.netlify.app/))
+- [x] [SBA 4](https://ps-lms.vercel.app/curriculum/se/411/sba): Task Management App ([submission](https://github.com/hirekarl/sba_04_task_management_app)) ([Netlify](https://incredible-mousse-c22548.netlify.app/))
 - [ ] [KBA 4](https://perscholas.instructure.com/courses/2754/assignments/530798): Fundamentals of JavaScript
 
 ---
