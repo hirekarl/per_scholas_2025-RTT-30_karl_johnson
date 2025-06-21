@@ -1,6 +1,6 @@
 # 2025-RTT-30 Karl Johnson
 
-*Last modified <date datetime="2025-06-18">2025-06-18</date> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
+*Last modified <date datetime="2025-06-21">2025-06-21</date> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
 
 ## Overview
 Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <date datetime="2025-06-02">June 2, 2025</date> and ending <date datetime="2025-09-23">September 23, 2025</date>.
@@ -18,7 +18,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 - Hands-On: Build a Simple Decision-Based Game
 
 ###### Resources
-
+- MVC framework resource: [TodoMVC](https://todomvc.com/)
 
 ###### Homework
 Due Sunday, 11:59pm EDT:
@@ -43,8 +43,8 @@ Due Sunday, 11:59pm EDT:
 
 ###### Homework
 Due Friday, 11:59pm EDT:
-- Lab
-- Lab
+- [x] [Lab 4.1](https://ps-lms.vercel.app/curriculum/se/411/lab-1): Variables and Functions ([submission](https://github.com/hirekarl/lab_4.1_variables_functions))
+- [x] [Lab 4.2](https://ps-lms.vercel.app/curriculum/se/411/lab-2): Array Manipulation ([submission](https://github.com/hirekarl/lab_4.2_array_manipulation)) ([Netlify](https://effulgent-pudding-ae02a8.netlify.app/))
 
 ---
 
