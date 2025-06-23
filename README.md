@@ -1,16 +1,16 @@
 # 2025-RTT-30 Karl Johnson
 
-*Last modified <date datetime="2025-06-21">2025-06-21</date> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
+*Last modified <time datetime="2025-06-21">2025-06-21</time> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
 
 ## Overview
-Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <date datetime="2025-06-02">June 2, 2025</date> and ending <date datetime="2025-09-23">September 23, 2025</date>.
+Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <time datetime="2025-06-02">June 2, 2025</time> and ending <time datetime="2025-09-23">September 23, 2025</time>.
 
 ### Dailies
 #### Week 3
 
 ---
 
-##### Day 14: <date datetime="2025-06-20">Fri Jun 20 2025</date>
+##### Day 14: <time datetime="2025-06-20">Fri Jun 20 2025</time>
 ###### Topics
 - [Lesson 4.4](https://ps-lms.vercel.app/curriculum/se/411/lesson-4): Conditionals, Logical Operators, and Object Basics
 
@@ -27,7 +27,7 @@ Due Sunday, 11:59pm EDT:
 
 ---
 
-##### Day 13: <date datetime="2025-06-18">Wed Jun 18 2025</date>
+##### Day 13: <time datetime="2025-06-18">Wed Jun 18 2025</time>
 ###### Topics
 - DOM Manipulation
 - JS Arrays &amp; Loops
@@ -38,7 +38,7 @@ Due Sunday, 11:59pm EDT:
 
 
 ###### Resources
-- "The magic is in the paycheck." &mdash; Tishana Trainor, <date datetime="2025-06-18">June 18, 2025</date>
+- "The magic is in the paycheck." &mdash; Tishana Trainor, <time datetime="2025-06-18">June 18, 2025</time>
 - YouTube Channel: [Fun Fun Function](https://www.youtube.com/@funfunfunction)
 - Tishana's notes channel: [TTMD](https://github.com/tishana/TTMD)
 
@@ -49,7 +49,7 @@ Due Friday, 11:59pm EDT:
 
 ---
 
-##### Day 12 (PD): <date datetime="2025-06-17">Tue Jun 17 2025</date>
+##### Day 12 (PD): <time datetime="2025-06-17">Tue Jun 17 2025</time>
 ###### Topics
 - Resumes
 - ATS
@@ -65,7 +65,7 @@ Due by Friday:
 
 ---
 
-##### Day 11: <date datetime="2025-06-16">Mon Jun 16 2025</date>
+##### Day 11: <time datetime="2025-06-16">Mon Jun 16 2025</time>
 ###### Topics
 
 
@@ -91,7 +91,7 @@ Due by Friday:
 
 ---
 
-##### Day 10: <date datetime="2025-06-13">Fri Jun 13 2025</date> (*out sick*)
+##### Day 10: <time datetime="2025-06-13">Fri Jun 13 2025</time> (*out sick*)
 ###### Topics
 
 
@@ -113,7 +113,7 @@ Due Monday, 11:59pm:
 
 ---
 
-##### Day 9: <date datetime="2025-06-12">Thu Jun 12 2025</date>
+##### Day 9: <time datetime="2025-06-12">Thu Jun 12 2025</time>
 ###### Topics
 
 
@@ -133,7 +133,7 @@ Due Friday, 11:59pm:
 
 ---
 
-##### Day 8: <date datetime="2025-06-11">Wed Jun 11 2025</date>
+##### Day 8: <time datetime="2025-06-11">Wed Jun 11 2025</time>
 ###### Topics
 - From design to development with Figma
 
@@ -151,7 +151,7 @@ Due Thursday, 11:59pm:
 
 ---
 
-##### Day 7 (PD): <date datetime="2025-06-10">Tue Jun 10 2025</date>
+##### Day 7 (PD): <time datetime="2025-06-10">Tue Jun 10 2025</time>
 ###### Topics
 - Intro to professional development
 - Per Scholas values
@@ -167,7 +167,7 @@ Due Thursday, 11:59pm:
 
 ---
 
-##### Day 6: <date datetime="2025-06-09">Mon Jun 9 2025</date>
+##### Day 6: <time datetime="2025-06-09">Mon Jun 9 2025</time>
 ###### Topics
 - Web design/web development workflows
 - Wireframing
@@ -203,7 +203,7 @@ Due Thursday, 11:59pm:
 
 ---
 
-##### Day 5: <date datetime="2025-06-06">Fri Jun 6 2025</date>
+##### Day 5: <time datetime="2025-06-06">Fri Jun 6 2025</time>
 ###### Topics
 - ARIA/accessibility
 
@@ -223,7 +223,7 @@ Due Sunday at 11:59pm ET:
 
 ---
 
-##### Day 4: <date datetime="2025-06-05">Thu Jun 5 2025</date>
+##### Day 4: <time datetime="2025-06-05">Thu Jun 5 2025</time>
 ###### Topics
 - Semantic HTML
 - CSS
@@ -259,7 +259,7 @@ Due Monday by 11:59pm ET:
 
 ---
 
-##### Day 3: <date datetime="2025-06-04">Wed Jun 4 2025</date>
+##### Day 3: <time datetime="2025-06-04">Wed Jun 4 2025</time>
 ###### Topics
 - Pull requests
 - Node.js and `npm`
@@ -291,7 +291,7 @@ Due tomorrow by 11:59pm ET:
 
 ---
 
-##### Day 2: <date datetime="2025-06-04">Tue Jun 3 2025</date>
+##### Day 2: <time datetime="2025-06-04">Tue Jun 3 2025</time>
 ###### Topics
 - Using Git
 
@@ -310,7 +310,7 @@ Due tomorrow by 11:59pm ET:
 
 ---
 
-##### Day 1: <date datetime="2025-06-02">Mon Jun 2 2025</date>
+##### Day 1: <time datetime="2025-06-02">Mon Jun 2 2025</time>
 ###### Topics
 - Install-a-thon (Git, Visual Studio Code, Node.js)
 - Command-line basics
