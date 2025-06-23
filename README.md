@@ -6,6 +6,26 @@
 Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <time datetime="2025-06-02">June 2, 2025</time> and ending <time datetime="2025-09-23">September 23, 2025</time>.
 
 ### Dailies
+
+#### Week 4
+
+---
+
+##### Day 15: <time datetime="2025-06-23">Mon Jun 23 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+
+---
+
 #### Week 3
 
 ---
@@ -23,7 +43,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 ###### Homework
 Due Sunday, 11:59pm EDT:
 - [x] [SBA 4](https://ps-lms.vercel.app/curriculum/se/411/sba): Task Management App ([submission](https://github.com/hirekarl/sba_04_task_management_app)) ([Netlify](https://incredible-mousse-c22548.netlify.app/))
-- [ ] [KBA 4](https://perscholas.instructure.com/courses/2754/assignments/530798): Fundamentals of JavaScript
+- [x] [KBA 4](https://perscholas.instructure.com/courses/2754/assignments/530798): Fundamentals of JavaScript
 
 ---
 
