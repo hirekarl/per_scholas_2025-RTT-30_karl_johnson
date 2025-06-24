@@ -13,16 +13,21 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ##### Day 15: <time datetime="2025-06-23">Mon Jun 23 2025</time>
 ###### Topics
-
+- [Lesson 5.1](https://ps-lms.vercel.app/curriculum/se/412/lesson-1): Introduction to the DOM
+- [Lesson 5.2](https://ps-lms.vercel.app/curriculum/se/412/lesson-2): Dynamic DOM Manipulation
 
 ###### Work
-
+- [HackerRank Challenges](https://www.hackerrank.com/challenges)
+  - [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/submissions/code/436914689)
 
 ###### Resources
-
+- [d3](https://d3js.org/)
+- [HackerRank Challenges](https://www.hackerrank.com/challenges)
+- YouTube tutorial: [Learn Event Delegation In 10 Minutes](https://www.youtube.com/watch?v=cOoP8-NPLSo) by [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- YouTube tutorial: [Document Fragments in Javascript](https://www.youtube.com/watch?v=aUzCq-uabhw) by [dcode](https://www.youtube.com/@dcode-software)
 
 ###### Homework
-
+None!
 
 ---
 
