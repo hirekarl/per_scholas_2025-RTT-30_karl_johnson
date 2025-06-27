@@ -1,13 +1,83 @@
 # 2025-RTT-30 Karl Johnson
 
-*Last modified <time datetime="2025-06-21">2025-06-21</time> by [hirekarl](199382398+hirekarl@users.noreply.github.com).*
+*Last modified <time datetime="2025-06-27">2025-06-27</time> by [Karl Johnson](https://github.com/hirekarl).*
 
 ## Overview
-Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](199382398+hirekarl@users.noreply.github.com), beginning <time datetime="2025-06-02">June 2, 2025</time> and ending <time datetime="2025-09-23">September 23, 2025</time>.
+Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](https://github.com/hirekarl), beginning <time datetime="2025-06-02">June 2, 2025</time> and ending <time datetime="2025-09-23">September 23, 2025</time>.
 
 ### Dailies
 
 #### Week 4
+
+---
+
+##### Day 19: <time datetime="2025-06-27">Fri Jun 27 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+---
+
+##### Day 18: <time datetime="2025-06-26">Thu Jun 26 2025</time>
+###### Topics
+- [Lesson 5.5](https://ps-lms.vercel.app/curriculum/se/412/lesson-5): Form Validation and User Input
+- [Lesson 5.6](https://ps-lms.vercel.app/curriculum/se/412/lesson-6): Working with Local Storage
+
+###### Work
+- [Hacker Rank: Birthday Cake Candles Challenge](https://www.hackerrank.com/challenges/birthday-cake-candles/submissions/code/437319684)
+- [Activity 5.5.1](https://ps-lms.vercel.app/curriculum/se/412/lesson-5): Creating a Signup Form with Real-Time Validation
+
+###### Resources
+- [MDN Docs: Aria-Label](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label)
+
+###### Homework
+- Due Friday, 11:59pm EDT:
+- [ ] [Lab 5.2](https://perscholas.instructure.com/courses/2754/assignments/524115): Interactive User Registration Form
+
+
+---
+
+##### Day 17: <time datetime="2025-06-25">Wed Jun 25 2025</time>
+###### Topics
+- [Lesson 5.3](https://ps-lms.vercel.app/curriculum/se/412/lesson-3): Advanced DOM Manipulation
+- [Lessson 5.4](https://ps-lms.vercel.app/curriculum/se/412/lesson-4): Advanced Event Handling and Event Delegation
+
+###### Work
+- [HackerRank: Staircase Challenge](https://www.hackerrank.com/challenges/mini-max-sum/submissions/code/437182378)
+- [ ] Look up how to use template strings in JavaScript
+- [ ] Research difference between shallow and deep clones in DOM manipulation
+- [ ] How to use HTML partials?
+- [ ] How to use `Array.prototype.reduce()`
+
+###### Resources
+
+
+###### Homework
+Due Thursday, 11:59pm EDT:
+- [x] [Lab 5.1](https://ps-lms.vercel.app/curriculum/se/412/lab-1): Dynamic Content Creation ([submission](https://github.com/hirekarl/lab_5.1_dynamic_content_creation)) ([Netlify](https://chic-rolypoly-8dd3ae.netlify.app/dynamic-shopping-cart/))
+
+---
+
+##### Day 16 (PD): <time datetime="2025-06-24">Tue Jun 24 2025</time>
+###### Topics
+- Elevator Pitch
+
+###### Work
+
+
+###### Resources
+- Google Alerts for Job Search: [MakeUseOf](https://www.makeuseof.com/use-google-alerts-in-job-search/), [Indeed](https://www.indeed.com/career-advice/career-development/google-alert)
+- Talent Solutions Resources: [PeopleShores](https://peopleshores.com/), [YUPRO](https://yupro.com/), [Grant Street Group](https://www.grantstreet.com/), [DCAS](https://www.nyc.gov/site/dcas/agencies/office-of-citywide-recruitment.page), [NYHELPS](https://statejobs.ny.gov/public/search.cfm)
+
+###### Homework
+- N/A
 
 ---
 
