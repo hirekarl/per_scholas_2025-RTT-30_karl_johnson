@@ -3,7 +3,7 @@
 [Karl Johnson](https://github.com/hirekarl)  
 2025-RTT-30  
 
-*Last modified <date datetime="2025-06-21">2025-06-21</date> by [Karl Johnson](https://github.com/hirekarl).*
+*Last modified <date datetime="2025-06-27">2025-06-27</date> by [Karl Johnson](https://github.com/hirekarl).*
 
 ## Overview
 Below are my submissions for [Per Scholas](https://perscholas.org/)' remote [Software Engineer](https://perscholas.org/courses/software-engineer/software-engineer-new-york/) course, 2025-RTT-30. Our cohort began in <date datetime="2025-06">June 2025</date>, and graduation is anticipated in <date datetime="2025-09">September 2025</date>.
@@ -22,6 +22,7 @@ Below are my submissions for [Per Scholas](https://perscholas.org/)' remote [Sof
 - [Lab 3.2](https://ps-lms.vercel.app/curriculum/se/326/lab-2): Practicing Implementation with Frontend Mentor ([submission](https://github.com/hirekarl/lab_3.2_frontend_mentor))
 - [Lab 4.1](https://ps-lms.vercel.app/curriculum/se/411/lab-1): Variables and Functions ([submission](https://github.com/hirekarl/lab_4.1_variables_functions))
 - [Lab 4.2](https://ps-lms.vercel.app/curriculum/se/411/lab-2): Array Manipulation ([submission](https://github.com/hirekarl/lab_4.2_array_manipulation)) ([Netlify](https://effulgent-pudding-ae02a8.netlify.app/))
+- [Lab 5.1](https://ps-lms.vercel.app/curriculum/se/412/lab-1): Dynamic Content Creation ([submission](https://github.com/hirekarl/lab_5.1_dynamic_content_creation)) ([Netlify](https://chic-rolypoly-8dd3ae.netlify.app/dynamic-shopping-cart/))
 
 ## Ungraded Submissions
 ### Activities
