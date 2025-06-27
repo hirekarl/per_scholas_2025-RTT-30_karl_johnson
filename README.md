@@ -13,16 +13,32 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ##### Day 19: <time datetime="2025-06-27">Fri Jun 27 2025</time>
 ###### Topics
-
+- Labs, KBA, SBA independent work day
 
 ###### Work
+- [ ] Research: When does it make sense to use `.replaceWith()` versus resetting `.textContent`?
+- [ ] Go through [MDN Test Your Skills: Events](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Events)
+- [ ] Go through [MDN Test Your Skills: Form Validation](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Test_your_skills/Form_validation)
 
 
 ###### Resources
-
+- [TogetherJS](https://togetherjs.com/)
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- [WebVTT API](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
+- [MDN Element Reference: `<video>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video)
+- [MDN Scripting Reference: Event bubbling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Event_bubbling)
+- [MDN Web API Reference: `DocumentFragment()`](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
+- https://javascript.info/modifying-document
+- https://web.dev/articles/rendering-performance
+- https://frontendmasters.com/blog/patterns-for-memory-efficient-dom-manipulation/
+- https://www.youtube.com/watch?v=4nXemE0eIuc
+- https://getbootstrap.com/docs/5.3/forms/validation/#how-it-works
+- https://getbootstrap.com/docs/5.3/forms/validation/#server-side
+- https://getbootstrap.com/docs/5.3/forms/validation/#browser-defaults
+- https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Form_validation
 
 ###### Homework
-
+- KBA and SBA are gonna be due on July 6 11:59pm EDT
 ---
 
 ##### Day 18: <time datetime="2025-06-26">Thu Jun 26 2025</time>
