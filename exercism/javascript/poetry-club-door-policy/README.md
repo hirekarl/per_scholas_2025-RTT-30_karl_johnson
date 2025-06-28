@@ -26,14 +26,14 @@ A string can be treated as a list of characters where the first character has in
 You can access an individual character of the string using square brackets and the index of the letter you want to retrieve.
 
 ```javascript
-'cat'[1];
+"cat"[1];
 // => 'a'
 ```
 
 You can determine the number of characters in a string by accessing the `length` property.
 
 ```javascript
-'cat'.length;
+"cat".length;
 // => 3
 ```
 
@@ -42,7 +42,7 @@ You can determine the number of characters in a string by accessing the `length`
 The simplest way to concatenate strings is to use the addition operator `+`.
 
 ```javascript
-'I like' + ' ' + 'cats.';
+"I like" + " " + "cats.";
 // => "I like cats."
 ```
 
@@ -101,7 +101,7 @@ So when the guard recites **Stands so high**, you'll respond **S**, when the gua
 Implement the function `frontDoorResponse` that takes a line of the poem as an argument and returns the first letter of that line.
 
 ```javascript
-frontDoorResponse('Stands so high');
+frontDoorResponse("Stands so high");
 // => "S"
 ```
 
@@ -112,10 +112,10 @@ Now that you have all the correct letters, all you need to do to get the passwor
 Implement the function `frontDoorPassword` that accepts a string (the combined letters you found in task 1) and returns it correctly capitalized.
 
 ```javascript
-frontDoorPassword('SHIRE');
+frontDoorPassword("SHIRE");
 // => "Shire"
 
-frontDoorPassword('shire');
+frontDoorPassword("shire");
 // => "Shire"
 ```
 
@@ -142,10 +142,10 @@ You will need to ignore those pauses to derive the correct letter.
 Implement the function `backDoorResponse` that takes a line of the poem as an argument and returns the last letter of that line that is not a whitespace character.
 
 ```javascript
-backDoorResponse('Stands so high');
+backDoorResponse("Stands so high");
 // => "h"
 
-backDoorResponse('Stands so high   ');
+backDoorResponse("Stands so high   ");
 // => "h"
 ```
 
@@ -157,7 +157,7 @@ So to derive the password, this time you need to correctly capitalize the word a
 Implement the function `backDoorPassword` that accepts a string (the combined letters you found in task 3) and returns the polite version of the capitalized password.
 
 ```javascript
-backDoorPassword('horse');
+backDoorPassword("horse");
 // => "Horse, please"
 ```
 

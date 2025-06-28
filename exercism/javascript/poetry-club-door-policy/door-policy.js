@@ -20,6 +20,17 @@
 // Good luck with that door policy!
 
 /**
+ * Capitalize the first letter, make all other letters
+ * lowercase.
+ *
+ * @param {string} word
+ * @returns {string}
+ */
+function capitalizeFirstLetter(word) {
+  return word.slice(0, 1).toUpperCase().concat(word.slice(1).toLowerCase());
+}
+
+/**
  * Respond with the correct character, given the line of the
  * poem, if this were said at the front door.
  *
@@ -27,7 +38,7 @@
  * @returns {string}
  */
 export function frontDoorResponse(line) {
-  throw new Error('Remove this line and implement the function');
+  return line.slice(0, 1);
 }
 
 /**
@@ -38,7 +49,7 @@ export function frontDoorResponse(line) {
  * @returns {string} the front door password
  */
 export function frontDoorPassword(word) {
-  throw new Error('Remove this line and implement the function');
+  return capitalizeFirstLetter(word);
 }
 
 /**
@@ -49,7 +60,7 @@ export function frontDoorPassword(word) {
  * @returns {string}
  */
 export function backDoorResponse(line) {
-  throw new Error('Remove this line and implement the function');
+  return line.trim().slice(-1);
 }
 
 /**
@@ -60,5 +71,5 @@ export function backDoorResponse(line) {
  * @returns {string} the back door password
  */
 export function backDoorPassword(word) {
-  throw new Error('Remove this line and implement the function');
+  return `${capitalizeFirstLetter(word)}, please`;
 }
