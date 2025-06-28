@@ -32,6 +32,9 @@ Below are my GitHubs for [Per Scholas](https://perscholas.org/)' remote [Softwar
 ### Coding Challenges
 #### HackerRank
 
+##### Certifications
+- [Basic Python](https://www.hackerrank.com/certificates/f40c3ba62744) (<time datetime="2025-06-28">June 28, 2025</time>)
+
 #### Exercism
 [View all published Exercism solutions](https://exercism.org/profiles/hirekarl/solutions)
 1. [Lucian's Luscious Lasagna](https://exercism.org/tracks/javascript/exercises/lasagna/solutions/hirekarl)
@@ -39,3 +42,4 @@ Below are my GitHubs for [Per Scholas](https://perscholas.org/)' remote [Softwar
 3. [Freelancer Rates](https://exercism.org/tracks/javascript/exercises/freelancer-rates/solutions/hirekarl)
 4. [Poetry Club Door Policy](https://exercism.org/tracks/javascript/exercises/poetry-club-door-policy/solutions/hirekarl)
 5. [Elyse's Enchantments](https://exercism.org/tracks/javascript/exercises/elyses-enchantments/solutions/hirekarl)
+6. [Vehicle Purchase](https://exercism.org/tracks/javascript/exercises/vehicle-purchase/solutions/hirekarl)
