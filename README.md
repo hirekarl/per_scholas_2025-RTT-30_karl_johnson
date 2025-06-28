@@ -77,7 +77,7 @@ Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://pe
 
 ###### Homework
 Due Thursday, 11:59pm EDT:
-- [x] [Lab 5.1](https://ps-lms.vercel.app/curriculum/se/412/lab-1): Dynamic Content Creation ([submission](https://github.com/hirekarl/lab_5.1_dynamic_content_creation)) ([Netlify](https://chic-rolypoly-8dd3ae.netlify.app/dynamic-shopping-cart/))
+- [x] [Lab 5.1](https://ps-lms.vercel.app/curriculum/se/412/lab-1): Dynamic Content Creation ([GitHub](https://github.com/hirekarl/lab_5.1_dynamic_content_creation)) ([Netlify](https://chic-rolypoly-8dd3ae.netlify.app/dynamic-shopping-cart/))
 
 ---
 
@@ -133,7 +133,7 @@ None!
 
 ###### Homework
 Due Sunday, 11:59pm EDT:
-- [x] [SBA 4](https://ps-lms.vercel.app/curriculum/se/411/sba): Task Management App ([submission](https://github.com/hirekarl/sba_04_task_management_app)) ([Netlify](https://incredible-mousse-c22548.netlify.app/))
+- [x] [SBA 4](https://ps-lms.vercel.app/curriculum/se/411/sba): Task Management App ([GitHub](https://github.com/hirekarl/sba_04_task_management_app)) ([Netlify](https://incredible-mousse-c22548.netlify.app/))
 - [x] [KBA 4](https://perscholas.instructure.com/courses/2754/assignments/530798): Fundamentals of JavaScript
 
 ---
@@ -155,8 +155,8 @@ Due Sunday, 11:59pm EDT:
 
 ###### Homework
 Due Friday, 11:59pm EDT:
-- [x] [Lab 4.1](https://ps-lms.vercel.app/curriculum/se/411/lab-1): Variables and Functions ([submission](https://github.com/hirekarl/lab_4.1_variables_functions))
-- [x] [Lab 4.2](https://ps-lms.vercel.app/curriculum/se/411/lab-2): Array Manipulation ([submission](https://github.com/hirekarl/lab_4.2_array_manipulation)) ([Netlify](https://effulgent-pudding-ae02a8.netlify.app/))
+- [x] [Lab 4.1](https://ps-lms.vercel.app/curriculum/se/411/lab-1): Variables and Functions ([GitHub](https://github.com/hirekarl/lab_4.1_variables_functions))
+- [x] [Lab 4.2](https://ps-lms.vercel.app/curriculum/se/411/lab-2): Array Manipulation ([GitHub](https://github.com/hirekarl/lab_4.2_array_manipulation)) ([Netlify](https://effulgent-pudding-ae02a8.netlify.app/))
 
 ---
 
@@ -215,10 +215,10 @@ Due by Friday:
 
 ###### Homework
 Due Sunday, 11:59pm:
-- [x] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap ([submission](https://github.com/hirekarl/lab_3.3_bootstrap_refactor/)) ([Netlify](https://incomparable-jelly-3af253.netlify.app/))
+- [x] [Lab 3.3](https://perscholas.instructure.com/courses/2754/assignments/524105): Developing with Bootstrap ([GitHub](https://github.com/hirekarl/lab_3.3_bootstrap_refactor/)) ([Netlify](https://incomparable-jelly-3af253.netlify.app/))
 
 Due Monday, 11:59pm:
-- [x] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development ([submission](https://github.com/hirekarl/sba_03_design_and_development)) ([Netlify](https://jovial-sundae-2c3d9f.netlify.app/))
+- [x] [SBA 3](https://perscholas.instructure.com/courses/2754/assignments/524221): Design and Development ([GitHub](https://github.com/hirekarl/sba_03_design_and_development)) ([Netlify](https://jovial-sundae-2c3d9f.netlify.app/))
 - [x] [KBA 3](https://perscholas.instructure.com/courses/2754/assignments/524059/): Foundations of Web Design
 
 
@@ -240,7 +240,7 @@ Due Monday, 11:59pm:
 
 Due Friday, 11:59pm:
 - [ ] Complete IBM SkillsBuild assessment (*link broken*)
-- [x] [Lab 3.2](https://ps-lms.vercel.app/curriculum/se/326/lab-2): Practicing Implementation with Frontend Mentor ([submission](https://github.com/hirekarl/lab_3.2_frontend_mentor))
+- [x] [Lab 3.2](https://ps-lms.vercel.app/curriculum/se/326/lab-2): Practicing Implementation with Frontend Mentor ([GitHub](https://github.com/hirekarl/lab_3.2_frontend_mentor))
 
 ---
 
@@ -319,7 +319,7 @@ Due Thursday, 11:59pm:
 - ARIA/accessibility
 
 ###### Work
-- [Activity 3.1](https://ps-lms.vercel.app/curriculum/se/410/lesson-3): Designing an Accessible Form ([submission](https://github.com/hirekarl/activity_3.1_aria.git)) 
+- [Activity 3.1](https://ps-lms.vercel.app/curriculum/se/410/lesson-3): Designing an Accessible Form ([GitHub](https://github.com/hirekarl/activity_3.1_aria.git)) 
 
 ###### Resources
 - Compatibility Checker (Web Interface): [AudioEye ADA Website Accessibility Checker](https://www.audioeye.com/lp/ada-web-compliance/)
@@ -329,7 +329,7 @@ Due Thursday, 11:59pm:
 ###### Homework
 Due Sunday at 11:59pm ET:
 - [x] [KBA 2](https://perscholas.instructure.com/courses/2754/assignments/524064): HTML and CSS with Accessibility (28/30)
-- [x] [SBA 2](https://ps-lms.vercel.app/curriculum/se/410/sba): Building a Responsive and Accessible Web Page ([submission](https://github.com/hirekarl/sba_02_accessibility)) ([Netlify](https://meek-pie-765715.netlify.app/))
+- [x] [SBA 2](https://ps-lms.vercel.app/curriculum/se/410/sba): Building a Responsive and Accessible Web Page ([GitHub](https://github.com/hirekarl/sba_02_accessibility)) ([Netlify](https://meek-pie-765715.netlify.app/))
 
 
 ---
@@ -343,7 +343,7 @@ Due Sunday at 11:59pm ET:
   - flexbox, grid, and dev tools
 
 ###### Work
-- [x] [Activity 2.2](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7): Testimonials Grid Section Challenge ([submission](https://github.com/hirekarl/activity_2.2_flexbox_grid)) ([Netlify](https://elaborate-maamoul-9dd423.netlify.app/))
+- [x] [Activity 2.2](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7): Testimonials Grid Section Challenge ([GitHub](https://github.com/hirekarl/activity_2.2_flexbox_grid)) ([Netlify](https://elaborate-maamoul-9dd423.netlify.app/))
 
 ###### Resources
 - HTML
@@ -366,7 +366,7 @@ Due Sunday at 11:59pm ET:
 
 ###### Homework
 Due Monday by 11:59pm ET:
-- [x] [Lab 2.1](https://ps-lms.vercel.app/curriculum/se/410/lab-1): Interactive Accessibility Lesson ([submission](https://github.com/hirekarl/lab_2.1_accessible_web_design))
+- [x] [Lab 2.1](https://ps-lms.vercel.app/curriculum/se/410/lab-1): Interactive Accessibility Lesson ([GitHub](https://github.com/hirekarl/lab_2.1_accessible_web_design))
 
 ---
 
@@ -398,7 +398,7 @@ Due tomorrow by 11:59pm ET:
 - [x] [Discussion 1.3](https://perscholas.instructure.com/courses/2754/discussion_topics/140438?module_item_id=2196237): Conflict Resolution Discussion Questions
 - [x] [Discussion 1.4](https://perscholas.instructure.com/courses/2754/discussion_topics/140439?module_item_id=2196238): Git and GitHub Practices Discussion Questions
 - [x] [KBA 1](https://perscholas.instructure.com/courses/2754/assignments/524066?module_item_id=2196243): Version Control (30/30)
-- [x] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([submission](https://github.com/hirekarl/version-control-simulation-karl-johnson))
+- [x] [SBA 1](https://perscholas.instructure.com/courses/2754/assignments/524215?module_item_id=2196242): Version Control ([GitHub](https://github.com/hirekarl/version-control-simulation-karl-johnson))
 
 ---
 
@@ -417,7 +417,7 @@ Due tomorrow by 11:59pm ET:
 - Game: [learngitbranching](https://learngitbranching.js.org/)
 
 ###### Homework
-- [x] [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([submission](https://github.com/hirekarl/2025-rtt-30_lab01_kj)) ([Netflify](https://fabulous-clafoutis-b18bb1.netlify.app/))
+- [x] [Lab 1.1](https://perscholas.instructure.com/courses/2754/assignments/524068): Branching, Merging, and Handling Conflicts ([GitHub](https://github.com/hirekarl/2025-rtt-30_lab01_kj)) ([Netflify](https://fabulous-clafoutis-b18bb1.netlify.app/))
 
 ---
 
