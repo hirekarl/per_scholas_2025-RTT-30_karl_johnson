@@ -1,11 +1,32 @@
 # 2025-RTT-30 Karl Johnson
 
-*Last modified <time datetime="2025-07-03">2025-07-03</time> by [Karl Johnson](https://github.com/hirekarl).*
+*Last modified <time datetime="2025-07-07">2025-07-07</time> by [Karl Johnson](https://github.com/hirekarl).*
 
 ## Overview
-Notes and work related to the 2025-RTT-30 contingent of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](https://github.com/hirekarl), beginning <time datetime="2025-06-02">June 2, 2025</time> and ending <time datetime="2025-09-23">September 23, 2025</time>.
+Notes and work related to the 2025-RTT-30 cohort of [Per Scholas](https://perscholas.org/)' Software Engineering track by [Karl Johnson](https://github.com/hirekarl), beginning <time datetime="2025-06-02">June 2, 2025</time> and ending <time datetime="2025-09-23">September 23, 2025</time>.
 
 ### Dailies
+
+---
+
+#### Week 5
+
+---
+
+##### Day 20: <time datetime="2025-07-07">Mon Jul 7 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+
+---
 
 #### Week 4
 
