@@ -18,7 +18,8 @@ Notes and work related to the 2025-RTT-30 cohort of [Per Scholas](https://persch
 
 
 ###### Work
-
+- [HackerRank: Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/submissions/code/438593335)
+- [ ] Learn about JavaScript `Map()`s and sets
 
 ###### Resources
 

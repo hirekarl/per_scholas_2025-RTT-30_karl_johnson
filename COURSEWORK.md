@@ -34,6 +34,9 @@ Below are my repository and deployment links for [Per Scholas](https://perschola
 ##### Certifications
 - [Basic Python](https://www.hackerrank.com/certificates/f40c3ba62744) (<time datetime="2025-06-28">June 28, 2025</time>)
 
+##### Submissions
+- [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/submissions/code/438593335)
+
 #### Exercism
 [View all published Exercism solutions](https://exercism.org/profiles/hirekarl/solutions)
 1. [Lucian's Luscious Lasagna](https://exercism.org/tracks/javascript/exercises/lasagna/solutions/hirekarl)
