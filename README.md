@@ -13,6 +13,22 @@ Notes and work related to the 2025-RTT-30 cohort of [Per Scholas](https://persch
 
 ---
 
+##### Day 21: <time datetime="2025-07-08">Tue Jul 8 2025</time>
+###### Topics
+- Imposter Syndrome
+
+###### Work
+- Cover Letter template
+- Elevator pitch exercise
+
+###### Resources
+- TODO
+
+###### Homework
+- [ ] Hone, memorize, practice elevator pitch for presentation in class next week
+
+---
+
 ##### Day 20: <time datetime="2025-07-07">Mon Jul 7 2025</time>
 ###### Topics
 
