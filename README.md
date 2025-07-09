@@ -13,6 +13,21 @@ Notes and work related to the 2025-RTT-30 cohort of [Per Scholas](https://persch
 
 ---
 
+##### Day 22: <time datetime="2025-07-09">Wed July 9 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+
+---
+
 ##### Day 21: <time datetime="2025-07-08">Tue Jul 8 2025</time>
 ###### Topics
 - Imposter Syndrome
