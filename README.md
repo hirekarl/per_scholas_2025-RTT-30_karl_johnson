@@ -15,10 +15,12 @@ Notes and work related to the 2025-RTT-30 cohort of [Per Scholas](https://persch
 
 ##### Day 22: <time datetime="2025-07-09">Wed July 9 2025</time>
 ###### Topics
-
+- Interfaces
+- TypeScript functions
+- Type aliases
 
 ###### Work
-
+- [HackerRank: Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/submissions/code/438874605)
 
 ###### Resources
 

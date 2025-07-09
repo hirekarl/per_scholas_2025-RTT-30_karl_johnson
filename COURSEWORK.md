@@ -36,6 +36,7 @@ Below are my repository and deployment links for [Per Scholas](https://perschola
 
 ##### Submissions
 - [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/submissions/code/438593335)
+- [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/submissions/code/438874605)
 
 #### Exercism
 [View all published Exercism solutions](https://exercism.org/profiles/hirekarl/solutions)
