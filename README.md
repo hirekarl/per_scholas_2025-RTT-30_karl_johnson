@@ -9,7 +9,53 @@ Notes and work related to the 2025-RTT-30 cohort of [Per Scholas](https://persch
 
 ---
 
+#### Week 6
+
+---
+
+##### Day 25: <time datetime="2025-07-14">Mon Jul 14 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+---
+
 #### Week 5
+
+---
+
+##### Day 24: <time datetime="2025-07-11">Thu Jul 11 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+
+
+###### Homework
+
+---
+
+##### Day 23: <time datetime="2025-07-10">Thu Jul 10 2025</time>
+###### Topics
+
+
+###### Work
+
+
+###### Resources
+- YouTube tutorial: [THIS is EASY TypeScript Setup in VSCode](https://www.youtube.com/watch?v=4zdBk6wisxc) by [Alex Ziskind](https://www.youtube.com/@AZisk)
+
+###### Homework
 
 ---
 
